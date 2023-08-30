@@ -23,7 +23,7 @@ function sumOfNumbersTo(destination) {
 }
 
 
-// assignment.sumOfNumbersTo = sumOfNumbersTo;
+ assignment.sumOfNumbersTo = sumOfNumbersTo;
 
 /**
  * Challenge - 2
@@ -58,7 +58,7 @@ for (let i = 1; i <= destination; i++){
     };
 }
 
-// assignment.countEvenNumbersWithin = countEvenNumbersWithin;
+ assignment.countEvenNumbersWithin = countEvenNumbersWithin;
 
 /**
  * Challenge - 3
